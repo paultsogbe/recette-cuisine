@@ -1,0 +1,8 @@
+.navbar-main{
+    padding: 0 24px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background:rgb(173, 225, 173);
+}

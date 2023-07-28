@@ -1,0 +1,12 @@
+.form-add-recipe input, .form-add-recipe textarea, .form-add-recipe select{
+    display:block;
+    width: 400px;
+    margin: 10px;
+    box-sizing: border-box;
+    margin-left: unset;
+}
+
+.form-add-recipe input, .form-add-recipe select{
+height: 25px;
+margin-left: unset;
+}

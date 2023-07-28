@@ -1,0 +1,14 @@
+.tagList{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+}
+
+.tagList >.tag{
+    background:blue;
+    color:white;
+    padding: 3px;
+    font-size: 10px;
+    cursor:pointer;
+}
